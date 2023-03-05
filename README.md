@@ -1,4 +1,4 @@
-# 5241-Final-Project
+# MNIST Classification Project
  
 ## Author: Gexin Chen  Uni: gc2936
 
